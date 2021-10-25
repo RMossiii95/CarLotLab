@@ -1,0 +1,14 @@
+C:\GitHubDevBuild\repos\CarLotLab\CarLotLab\bin\Debug\netcoreapp3.1\CarLotLab.exe
+C:\GitHubDevBuild\repos\CarLotLab\CarLotLab\bin\Debug\netcoreapp3.1\CarLotLab.deps.json
+C:\GitHubDevBuild\repos\CarLotLab\CarLotLab\bin\Debug\netcoreapp3.1\CarLotLab.runtimeconfig.json
+C:\GitHubDevBuild\repos\CarLotLab\CarLotLab\bin\Debug\netcoreapp3.1\CarLotLab.runtimeconfig.dev.json
+C:\GitHubDevBuild\repos\CarLotLab\CarLotLab\bin\Debug\netcoreapp3.1\CarLotLab.dll
+C:\GitHubDevBuild\repos\CarLotLab\CarLotLab\bin\Debug\netcoreapp3.1\CarLotLab.pdb
+C:\GitHubDevBuild\repos\CarLotLab\CarLotLab\obj\Debug\netcoreapp3.1\CarLotLab.csproj.AssemblyReference.cache
+C:\GitHubDevBuild\repos\CarLotLab\CarLotLab\obj\Debug\netcoreapp3.1\CarLotLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubDevBuild\repos\CarLotLab\CarLotLab\obj\Debug\netcoreapp3.1\CarLotLab.AssemblyInfoInputs.cache
+C:\GitHubDevBuild\repos\CarLotLab\CarLotLab\obj\Debug\netcoreapp3.1\CarLotLab.AssemblyInfo.cs
+C:\GitHubDevBuild\repos\CarLotLab\CarLotLab\obj\Debug\netcoreapp3.1\CarLotLab.csproj.CoreCompileInputs.cache
+C:\GitHubDevBuild\repos\CarLotLab\CarLotLab\obj\Debug\netcoreapp3.1\CarLotLab.dll
+C:\GitHubDevBuild\repos\CarLotLab\CarLotLab\obj\Debug\netcoreapp3.1\CarLotLab.pdb
+C:\GitHubDevBuild\repos\CarLotLab\CarLotLab\obj\Debug\netcoreapp3.1\CarLotLab.genruntimeconfig.cache
